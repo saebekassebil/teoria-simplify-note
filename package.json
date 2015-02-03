@@ -13,5 +13,9 @@
     "accidentals"
   ],
   "author": "Jakob Miland",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.5.0",
+    "teoria": "^1.3.0"
+  }
 }
