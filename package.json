@@ -1,0 +1,17 @@
+{
+  "name": "teoria-simplify-note",
+  "version": "1.0.0",
+  "description": "Simplifies (if possible) a note. Fb -> E",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "teoria",
+    "simplify",
+    "note",
+    "accidentals"
+  ],
+  "author": "Jakob Miland",
+  "license": "MIT"
+}
