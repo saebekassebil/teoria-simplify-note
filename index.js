@@ -1,4 +1,4 @@
-function simplifyNote(note) {
+module.exports = function simplifyNote(note) {
   var acc = Math.abs(note.accidentalValue());
   if (acc === 0) return note;
 
